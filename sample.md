@@ -1,10 +1,8 @@
-# This is a Header Level 1
+# Schedule
 
-* This is a bullet
-* This is another bullet
-
-_Italics_
-
-**Bold**
-
-[Hyperlink](https://aas.org)
+| Date | Owner |
+|-------|---------|
+| Oct 1 | Richard |
+| Oct 2 | Sheila  |
+| Oct 3 | Matthew |
+|       |         |
