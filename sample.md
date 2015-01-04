@@ -3,6 +3,6 @@
 | Date | Owner |
 |-------|---------|
 | Oct 1 | Arfon |
-| Oct 2 | Gus  |
-| Oct 3 | Arfon |
+| Oct 2 | Richard  |
+| Oct 3 | Gus |
 |       |         |
