@@ -2,7 +2,7 @@
 
 | Date | Owner |
 |-------|---------|
-| Oct 1 | Richard |
-| Oct 2 | Sheila  |
-| Oct 3 | Matthew |
+| Oct 1 | Arfon |
+| Oct 2 | Gus  |
+| Oct 3 | Arfon |
 |       |         |
